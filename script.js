@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     const facts = [
-        "Honey never spoils.",
-        "A day on Venus is longer than a year on Venus.",
-        "Bananas are berries, but strawberries aren't.",
-        "There are more stars in the universe than grains of sand on Earth.",
-        "Octopuses have three hearts."
+        "I like to read.",
+        "I am an Engineering student.",
+        "I am studying AI.",
+        "I like desserts.",
+        "I procrastinate a lot."
     ];
 
     const factDisplay = document.getElementById('fact-display');
